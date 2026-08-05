@@ -1,0 +1,38 @@
+future improvements
+
+1. User accounts and personalization
+Add authentication so users can sign in and manage their own sets.
+Save favorites, study history, and personalized progress across sessions.
+Allow user profiles and author attribution for sets.
+2. Better study experience
+Add spaced repetition scheduling (SM-2 / Leitner system) instead of only simple flip/quiz mode.
+Save quiz results and performance metrics per user.
+Add review reminders and daily study streaks.
+3. Richer flashcard content
+Support images, audio, and more flexible card formatting.
+Allow multiple-choice questions or cloze deletion cards.
+Improve import/export formats beyond .txt (CSV, JSON, Anki-compatible export).
+4. Collaboration and sharing
+Add public/private set visibility, shareable links, and social learning groups.
+Let users duplicate or remix sets from other creators.
+Add commenting or discussion on sets.
+5. Search, filtering, and browsing
+Add pagination and sorting for browse results.
+Improve search with fuzzy matching, tag clouds, and category filters.
+Add set-level metadata like difficulty, subject, or grade level.
+6. Admin and analytics
+Replace the simple admin password page with a proper admin dashboard.
+Track usage metrics, most popular sets, active users, and retention.
+Add moderation tools for inappropriate content.
+7. UX and accessibility
+Improve mobile/responsive UI and keyboard navigation.
+Add onboarding / help text for new users.
+Ensure accessibility for screen readers and high-contrast modes.
+8. Infrastructure and reliability
+Add server-side validation and better error handling on API/database actions.
+Introduce unit/integration tests for core flows.
+Add caching and optimize Supabase queries for large collections.
+9. Branding and polish
+Improve visuals, typography, and consistent theming.
+Add app-level notifications or toasts for important actions.
+Standardize set and card previews with better layout and metadata display.
