@@ -23,6 +23,7 @@ Add set-level metadata like difficulty, subject, or grade level.
 6. Admin and analytics
 Replace the simple admin password page with a proper admin dashboard.
 Track usage metrics, most popular sets, active users, and retention.
+Integrate the PAGASA API into the dashboard for real-time weather updates, alerts, and forecasts.
 Add moderation tools for inappropriate content.
 7. UX and accessibility
 Improve mobile/responsive UI and keyboard navigation.
