@@ -37,3 +37,4 @@ Add caching and optimize Supabase queries for large collections.
 Improve visuals, typography, and consistent theming.
 Add app-level notifications or toasts for important actions.
 Standardize set and card previews with better layout and metadata display.
+10. Reviewing and analytics
